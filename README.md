@@ -14,8 +14,6 @@ This project serves as a practical example of automating cloud deployments and s
 
 The architecture is designed for security and scalability. Traffic from the internet is directed to an Application Load Balancer in public subnets. The ALB then forwards the traffic to the Flask application running as a Docker container in a private ECS task. This entire environment is provisioned within a custom, isolated Virtual Private Cloud (VPC).
 
-![Architecture Diagram](https://i.imgur.com/gYfHjY6.png)
-
 ***
 
 ## 🛠️ Technologies Used
