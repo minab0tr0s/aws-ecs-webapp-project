@@ -44,7 +44,7 @@ To deploy this project, you need an AWS account, Terraform, and Docker installed
 1.  **Clone the repository:**
     ```bash
     # Replace [YOUR_GITHUB_USERNAME] with your actual username
-    git clone [https://github.com/](https://github.com/)[YOUR_GITHUB_USERNAME]/aws-ecs-webapp-project.git
+    git clone https://github.com/minab0tr0s/aws-ecs-webapp-project.git
     cd aws-ecs-webapp-project
     ```
 
